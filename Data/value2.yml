@@ -1,0 +1,7 @@
+info: &data
+  name: 张三
+  age: 18
+
+mingpian:
+  <<: *data
+  address: TBD

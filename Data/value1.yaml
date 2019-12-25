@@ -1,0 +1,19 @@
+#name: "lili"
+#Name: "lucy"
+#value:
+#  name1: "lili"
+#  name2: "lucy"
+#  name3: lilei
+#value:
+#  - 1
+#  - 2
+#value: [1,2]
+#value:
+#  - name: lili
+#  - age: 12
+#  - sex: 男
+#value: true
+#value: 543943
+#value: Yes
+#value: ~
+value: 1990-09-01 14:00:00
